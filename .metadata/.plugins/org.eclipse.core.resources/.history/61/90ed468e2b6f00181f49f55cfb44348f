@@ -1,0 +1,15 @@
+
+public class Review {
+	
+	public static void main(String args[]) {
+		
+		System.out.println("helloo guys");
+		System.out.println("one thing");
+		System.out.println("two things");
+		
+		
+		System.out.println("hello world");
+		System.out.println("my name is jailen");
+		System.out.println("i will be working in quality with lian");
+}
+}

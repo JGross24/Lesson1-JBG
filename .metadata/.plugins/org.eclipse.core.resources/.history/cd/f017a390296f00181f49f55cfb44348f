@@ -1,0 +1,13 @@
+
+public class Review {
+	
+	public static void main(String args[]) {
+		
+		System.out.print("helloo guys");
+		System.out.print("one thing");
+		System.out.print("two things");
+		
+		
+	}
+
+}

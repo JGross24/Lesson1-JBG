@@ -1,0 +1,15 @@
+
+public class Puppy {
+	
+	public static void main(String args[]) {
+		
+	Puppy ourpuppy = new Puppy("TIM");
+		
+		
+		ourpuppy.setAge(3);
+		ourpuppy.getAge();
+		
+		System.out.println("our variable-"+ourpuppy.puppyAge);
+
+	}
+}

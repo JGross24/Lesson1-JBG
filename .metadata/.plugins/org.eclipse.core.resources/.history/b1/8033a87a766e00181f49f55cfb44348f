@@ -1,0 +1,16 @@
+
+public class Lesson {
+
+public static void main(String args[]){
+	
+		System.out.println("i would like to learn the details of engineering");	
+	System.out.println("hopefully its not too hard");
+	
+}
+}
+System.out.println("funny");
+System.out.println("nice");	
+System.out.println("great");	
+System.out.println("amazing");	
+}
+}
